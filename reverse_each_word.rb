@@ -5,3 +5,4 @@ array.collect do |sentence1|
   test_array.push(sentence1.reverse)
 end
 test_array.join("")
+end
