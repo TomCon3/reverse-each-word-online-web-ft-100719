@@ -1,2 +1,2 @@
 reverse_each_word(sentence1)
-array.s
+array = sentence1.split
