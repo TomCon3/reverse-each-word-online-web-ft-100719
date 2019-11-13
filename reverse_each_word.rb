@@ -6,12 +6,3 @@ array.collect do |sentence1|
 end
 test_array.join("")
 end
-
-def reverse_each_word(sentence1)
-  array = sentence1.split("")
-  new_array = []
-  array.each do |sentence1|
-    new_array.push(sentence1.reverse)
-  end
-  new_array.join("")
-end
